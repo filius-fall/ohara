@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "b7c2d7445ad94a1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b9627b23ab796e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3b368cc9cb320e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/08-10-2023 typed data transfer protocol.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c75a2a9db20a2940",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "af6d838c63e39334",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fba72fdbd0cea987",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "42c7ab028ed5d05f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "93ece4fe56925ccd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3813f5b31bb8909c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c18abc0f9fb57911",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Inbox/08-10-2023 typed data transfer protocol.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1f3d74cbbec3019c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Inbox/08-10-2023 typed data transfer protocol.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1f8a5c32afabb7c9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Inbox/08-10-2023 typed data transfer protocol.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab3b368cc9cb320e",
+  "lastOpenFiles": [
+    "Inbox/08-10-2022 Sync Obsidian in mobile and laptop.md",
+    "temp.md",
+    "Inbox/08-10-2023 typed data transfer protocol.md",
+    "Untitled"
+  ]
+}

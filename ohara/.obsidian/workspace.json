@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "6c91a924853feb5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ceec5da823ac0e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ead73ce5a1b77ee",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55043e2ed905da7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5952d65e3f107026",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c2f6e674da801d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9711e986fff051f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ee52ca130383441",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "305a60349d52e7a1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f31b270cb7dbf19",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "eb9c2e076d5722b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "68c8ebe66e1ac30c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e606f510526699d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb3370324a58c2e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0c6d6b1ccc63101",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1db48cc07b44c2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5ead73ce5a1b77ee",
+  "lastOpenFiles": [
+    "Spaces",
+    "Journal/Oct 19 2023.md",
+    "Misc/old/Oct 19 2023.md",
+    "Misc/old/Best Phone under 20k.md",
+    "Misc/old/08-10-2022 Sync Obsidian in mobile and laptop.md",
+    "Misc/old",
+    "Misc/Untitled Folder",
+    "Misc/08-10-2022 Sync Obsidian in mobile and laptop.md",
+    "Inbox/+ About Inbox.md",
+    "Inbox/08-10-2023 typed data transfer protocol.md",
+    "Inbox/08-10-2022 Sync Obsidian in mobile and laptop.md",
+    "Inbox/Fat loss related.md",
+    "Misc/Server scripts.md",
+    "Misc/Workout plan.md",
+    "Misc/App for sprint planning using Sheets.md",
+    "Misc/Leetcode notes.md",
+    "Misc/Programming.md",
+    "Misc/Job prep.md",
+    "Misc/TODO.md",
+    "Misc/Health.md",
+    "Misc/Points.md",
+    "Misc/Best Phone under 20k.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "ohara.md",
+    "Misc/Misc.md",
+    "Misc",
+    "Diet.md",
+    "templates/Untitled.md",
+    "templates",
+    "Spaces/Home",
+    "Media/+ About Media.md",
+    "Reference/+ About Reference.md",
+    "temp",
+    "Work/vtiger",
+    "Work",
+    "Media"
+  ]
+}
