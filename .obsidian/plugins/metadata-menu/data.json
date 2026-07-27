@@ -1,0 +1,72 @@
+{
+  "presetFields": [
+    {
+      "id": "type-zk",
+      "name": "type",
+      "type": "Select",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesListNotePath": "Meta/Types.md",
+        "valuesList": {}
+      },
+      "command": "",
+      "display": ""
+    },
+    {
+      "id": "category-zk",
+      "name": "category",
+      "type": "Select",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesListNotePath": "Meta/Categories.md",
+        "valuesList": {}
+      },
+      "command": "",
+      "display": ""
+    },
+    {
+      "id": "tags-zk",
+      "name": "tags",
+      "type": "Multi",
+      "options": {
+        "sourceType": "ValuesListNotePath",
+        "valuesListNotePath": "Meta/Tags.md",
+        "valuesList": {}
+      },
+      "command": "",
+      "display": ""
+    }
+  ],
+  "fileClassQueries": [],
+  "displayFieldsInContextMenu": true,
+  "globallyIgnoredFields": [],
+  "classFilesPath": null,
+  "isAutosuggestEnabled": true,
+  "fileClassAlias": "fileClass",
+  "settingsVersion": "5.0",
+  "firstDayOfWeek": 1,
+  "enableLinks": true,
+  "enableTabHeader": true,
+  "enableEditor": true,
+  "enableBacklinks": true,
+  "enableStarred": true,
+  "enableFileExplorer": true,
+  "enableSearch": true,
+  "enableProperties": true,
+  "tableViewMaxRecords": 20,
+  "frontmatterListDisplay": "asArray",
+  "fileClassExcludedFolders": [],
+  "showIndexingStatusInStatusBar": true,
+  "fileIndexingExcludedFolders": [],
+  "fileIndexingExcludedExtensions": [
+    ".excalidraw.md"
+  ],
+  "fileIndexingExcludedRegex": [],
+  "frontmatterOnly": false,
+  "showFileClassSelectInModal": true,
+  "chooseFileClassAtFileCreation": false,
+  "autoInsertFieldsAtFileClassInsertion": false,
+  "fileClassIcon": "package",
+  "isAutoCalculationEnabled": true,
+  "disableDataviewPrompt": false
+}

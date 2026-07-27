@@ -6,3 +6,6 @@ tags:
   - inbox
 created: "{{date}}T{{time}}"
 ---
+
+## Capture
+

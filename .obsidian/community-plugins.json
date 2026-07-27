@@ -1,9 +1,8 @@
 [
   "obsidian-git",
-  "make-md",
   "ink",
   "obsidian-kanban",
-  "helix",
   "notion-vault-sync",
-  "metadata-menu"
+  "metadata-menu",
+  "quickadd"
 ]
