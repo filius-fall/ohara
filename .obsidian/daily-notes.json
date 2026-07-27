@@ -1,4 +1,5 @@
 {
-  "folder": "Inbox",
-  "format": "DD-MM-YYYY"
+  "folder": "Fleeting Notes",
+  "format": "YYYY-MM-DD",
+  "template": "Fleeting Notes"
 }
