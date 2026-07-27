@@ -1,18 +1,14 @@
----
-title: "{{title}}"
-date: {{date}}
-tags:
-  - meeting
-attendees:
----
-
-# {{title}}
+Attendees:
+Date: {{date}}
 
 ## Agenda
+
 -
 
 ## Notes
+
 -
 
 ## Action items
+
 - [ ]

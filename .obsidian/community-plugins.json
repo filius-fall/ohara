@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "make-md",
-  "ink"
+  "ink",
+  "obsidian-kanban",
+  "helix"
 ]
