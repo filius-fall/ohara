@@ -1,10 +1,7 @@
 ---
 title: "{{title}}"
-type: quote
+type: Interview Prep
 category: 
 tags: []
 created: "{{date}}T{{time}}"
-source: 
-author: 
 ---
-

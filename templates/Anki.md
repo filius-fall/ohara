@@ -1,8 +1,7 @@
 ---
 title: "{{title}}"
-type: idea
+type: Anki
 category: 
 tags: []
 created: "{{date}}T{{time}}"
 ---
-

@@ -1,10 +1,8 @@
 ---
 title: "{{title}}"
-type: reference
+type: Fleeting Notes
 category: 
-tags: []
+tags:
+  - inbox
 created: "{{date}}T{{time}}"
-source: 
-url: 
 ---
-

@@ -1,8 +1,7 @@
 ---
 title: "{{title}}"
-type: permanent
+type: Blog
 category: 
 tags: []
 created: "{{date}}T{{time}}"
 ---
-

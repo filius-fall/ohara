@@ -1,11 +1,7 @@
 ---
 title: "{{title}}"
-type: literature
+type: Literature Notes
 category: 
 tags: []
 created: "{{date}}T{{time}}"
-source: 
-author: 
-url: 
 ---
-

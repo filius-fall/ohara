@@ -1,9 +1,7 @@
 ---
 title: "{{title}}"
-type: map-of-content
+type: Permanent Notes
 category: 
-tags:
-  - moc
+tags: []
 created: "{{date}}T{{time}}"
 ---
-

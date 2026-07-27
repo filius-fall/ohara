@@ -1,9 +1,7 @@
 ---
 title: "{{title}}"
-type: fleeting
+type: Course
 category: 
-tags:
-  - inbox
+tags: []
 created: "{{date}}T{{time}}"
 ---
-
