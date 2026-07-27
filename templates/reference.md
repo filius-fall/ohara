@@ -8,7 +8,3 @@ source:
 url: 
 ---
 
-# {{title}}
-
-## Details
-- 

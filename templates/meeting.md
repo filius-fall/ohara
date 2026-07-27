@@ -7,13 +7,3 @@ created: "{{date}}T{{time}}"
 attendees: 
 ---
 
-# {{title}}
-
-## Agenda
-- 
-
-## Notes
-- 
-
-## Action items
-- [ ] 

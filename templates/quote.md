@@ -8,9 +8,3 @@ source:
 author: 
 ---
 
-# {{title}}
-
-> 
-
-## Context
-- 

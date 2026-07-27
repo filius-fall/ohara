@@ -7,10 +7,3 @@ tags:
 created: "{{date}}T{{time}}"
 ---
 
-# {{title}}
-
-## Topics
-- [[]]
-
-## Notes
-- [[]]

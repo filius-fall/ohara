@@ -7,13 +7,3 @@ tags:
 created: "{{date}}T{{time}}"
 ---
 
-# {{title}}
-
-Source: 
-Trigger: 
-
-## Thought
-- 
-
-## Why it matters
-- 

@@ -6,13 +6,3 @@ tags: []
 created: "{{date}}T{{time}}"
 ---
 
-# {{title}}
-
-## The idea
-- 
-
-## Why now
-- 
-
-## Next steps
-- [ ] 
