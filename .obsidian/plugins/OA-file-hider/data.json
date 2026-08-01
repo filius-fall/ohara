@@ -1,0 +1,10 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "Archive",
+    "Meta",
+    "Spaces",
+    "templates",
+    "README.md"
+  ]
+}
