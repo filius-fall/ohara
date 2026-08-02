@@ -1,0 +1,19 @@
+# Never synchronize secrets.
+.env
+.env.*
+
+# Device-local Obsidian state; syncing these creates conflicts.
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.makemd/
+.space/
+
+# Syncthing conflict copies are temporary recovery artifacts.
+*.sync-conflict-*
+
+# Repository and local runtime clutter.
+.git/
+.venv-notion/
+__pycache__/
+*.pyc

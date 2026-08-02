@@ -2,8 +2,10 @@
   "hidden": true,
   "hiddenList": [
     "Archive",
+    "Blog",
     "Meta",
     "Spaces",
+    "attachments",
     "templates",
     "README.md"
   ]
