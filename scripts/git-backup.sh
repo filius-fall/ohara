@@ -2,22 +2,22 @@
 set -euo pipefail
 
 vault_dir="${OHARA_VAULT:-$(CDPATH= cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)}"
-primary_remote="${OHARA_PRIMARY_REMOTE:-origin}"
-mirror_remote="${OHARA_MIRROR_REMOTE:-github}"
+offsite_remote="${OHARA_OFFSITE_REMOTE:-github}"
+mirror_remote="${OHARA_MIRROR_REMOTE:-}"
 backup_date="$(TZ="${OHARA_TIMEZONE:-Asia/Kolkata}" date +%F)"
 
 cd "$vault_dir"
 
-if [[ -z "$(git status --porcelain)" ]]; then
-    exit 0
+if [[ -n "$(git status --porcelain)" ]]; then
+    git add -A
+
+    if ! git diff --cached --quiet; then
+        git commit -m "backup-${backup_date}"
+    fi
 fi
 
-git add -A
+git push "$offsite_remote" main
 
-if git diff --cached --quiet; then
-    exit 0
+if [[ -n "$mirror_remote" ]]; then
+    git push "$mirror_remote" main
 fi
-
-git commit -m "backup-${backup_date}"
-git push "$primary_remote" main
-git push "$mirror_remote" main
