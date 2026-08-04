@@ -7,13 +7,14 @@ Personal Obsidian vault. Synced to [GitHub](https://github.com/filius-fall/ohara
 ```
 Notes/
 ├── Fleeting Notes/      daily captures, quick ideas (Obsidian "daily notes" land here)
-├── Literature Notes/    notes taken from sources (books, articles, videos)
-├── Permanent Notes/     refined, atomic, evergreen ideas
+├── Literature Notes/    your own summary of a source, links to Reference/ for detail
+├── Permanent Notes/     refined, atomic, evergreen ideas (short; one idea per note)
+├── Reference/           pasted source material (LLM output, docs) — exempt from "own words"
+├── Blog/                posts drafted from Permanent notes
+├── Trash/               processed Fleeting notes (excluded from sync + search)
 ├── Archive/             old / superseded content (pre-2024 notes live here)
-├── attachments/         images, PDFs, etc.
+├── Meta/                canonical Type/Category/Tag picklists (one per line)
 ├── templates/           one template per Type (body-only; frontmatter is baked by `n`)
-├── .zk-types            canonical Type picklist (one per line)
-├── .zk-categories       canonical Category picklist (one per line)
 ├── .obsidian/           vault config (synced; machine-local bits gitignored)
 └── .gitignore
 ```
@@ -23,8 +24,8 @@ Notes/
 ```yaml
 ---
 title: "Note Title"
-type: literature             # from .zk-types
-category: philosophy         # from .zk-categories (optional)
+type: Literature Notes       # from Meta/Types.md
+category: philosophy         # from Meta/Categories.md (optional)
 created: 2026-07-27T10:17:22+05:30
 tags:
   - reading

@@ -24,6 +24,7 @@ TYPE_NAMES = {
     "Fleeting Notes",
     "Literature Notes",
     "Permanent Notes",
+    "Reference",
     "Course",
     "Blog",
     "Anki",
@@ -37,6 +38,7 @@ EXCLUDED_DIRS = {
     ".trash",
     "Archive",
     "Meta",
+    "Trash",
     "templates",
 }
 EXCLUDED_FILES = {"README.md", "AGENTS.md", "Untitled.md"}

@@ -26,6 +26,6 @@ So basically due to natura of how udev blocks desktop from doing input before ud
 
 References:
 
-[keyboard-switching-issue-fix](https://app.notion.com/p/3b040eaf68f18020be08c1e9f5e30575) 
+[[Fleeting Notes/keyboard-switching-issue-fix|keyboard-switching-issue-fix]] 
 
-[What is udev](https://app.notion.com/p/3b040eaf68f18082a9e6c6e2d9ef18ee)
+[[Literature Notes/What is udev|What is udev]]

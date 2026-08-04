@@ -14,6 +14,6 @@ This is not issue if you get modern USB switch since they keep some voltage to a
 
 References:
 
-[What is udev](https://app.notion.com/p/3b040eaf68f18082a9e6c6e2d9ef18ee) 
+[[Literature Notes/What is udev|What is udev]] 
 
-[Input Remapper causing Issue in input switching](https://app.notion.com/p/3b040eaf68f180349aa0dce64aa7c275)
+[[Literature Notes/Input Remapper causing Issue in input switching|Input Remapper causing Issue in input switching]]

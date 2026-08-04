@@ -7,6 +7,10 @@ When Pi creates or processes a note:
 
 - Add or repair only YAML frontmatter.
 - Infer type from the note's folder using the exact names in Meta/Types.md.
+- Reference/ holds pasted source material (LLM output, docs); its notes get
+  type: Reference and may keep pasted bodies as-is.
+- Trash/ holds processed Fleeting notes; it is excluded from sync, metadata
+  checks, and search. Never move user notes there yourself — only on request.
 - Choose category and tags from Meta/Categories.md and Meta/Tags.md when the
   note clearly supports them. Leave them empty rather than guessing.
 - Keep the exact existing title and created values when present.
